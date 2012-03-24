@@ -1,6 +1,6 @@
 {
   "name": "stouty",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "stouty: remote stdout relayer",
   "keywords": ["stdout","log"],
   "homepage": "http://github.com/robby/stouty",
@@ -22,7 +22,7 @@
       "url": "http://www.opensource.org/licenses/MIT"
     }
   ],
-  "_id": "stouty@1.0",
+  "_id": "stouty@1.0.0",
   "dependencies": {},
   "optionalDependencies": {},
   "_engineSupported": true,
