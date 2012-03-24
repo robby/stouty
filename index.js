@@ -1,1 +1,1 @@
-module.exports = require('./stouty');
+module.exports = require('./lib/stouty');
