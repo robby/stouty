@@ -9,13 +9,13 @@ instructions:
  4. use telnet to get streamed data to your console
 
 // example
-
+```js
 var stouty = require('stouty');
 
 if(process.env.NODE_ENV == 'development') {
    stouty.listen(63730);
 }
-
+```
 
 // usage
 
