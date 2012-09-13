@@ -1,7 +1,7 @@
 {
   "name": "stouty",
-  "version": "1.1.1",
-  "description": "stouty: remote stdout relayer with cluster support",
+  "version": "1.1.2",
+  "description": "stouty: remote stdout/stderr tcp logger with cluster support",
   "keywords": ["stdout","log","cluster logger","log watcher"],
   "homepage": "http://github.com/robby/stouty",
   "repository": {
@@ -22,7 +22,7 @@
       "url": "http://www.opensource.org/licenses/MIT"
     }
   ],
-  "_id": "stouty@1.1.1",
+  "_id": "stouty@1.1.2",
   "dependencies": {},
   "optionalDependencies": {},
   "_engineSupported": true,
